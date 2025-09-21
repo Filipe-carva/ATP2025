@@ -9,11 +9,11 @@
 ## Resumo
 Neste trabalho (TPC1), o objetivo foi completar o **nível 10 do Maze** e o **nível 10 do Turtle**.  
 
-No exercício do Maze, trabalhou-se a lógica de navegação automática, recorrendo a instruções condicionais e ciclos para garantir que o agente chegava à saída de forma eficiente.  
+No exercício do Maze trabalhei a lógica de navegação automática, usando instruções condicionais e ciclos para que o agente conseguisse chegar à saída de forma eficiente.  
 
-No exercício do Turtle, foi explorada a noção de repetição e padrões geométricos, aplicando instruções de movimento e rotação para desenhar figuras mais complexas.  
+No exercício do Turtle explorei a repetição e os padrões geométricos, aplicando instruções de movimento e rotação para desenhar figuras mais complexas.  
 
-Estes exercícios permitiram consolidar conceitos básicos de programação, como ciclos, condições e abstração de instruções, de forma lúdica e interativa.
+Com estes exercícios consegui consolidar melhor os conceitos de programação, como ciclos, condições e abstração de instruções, e percebi como estas ideias podem ser aplicadas de forma prática e até divertida.
 
 ## Resultados
 - Resolução do Maze (TPC1 Maze.png)
