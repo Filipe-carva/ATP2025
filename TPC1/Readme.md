@@ -16,4 +16,6 @@ No exercício do Turtle, foi explorada a noção de repetição e padrões geom�
 Estes exercícios permitiram consolidar conceitos básicos de programação, como ciclos, condições e abstração de instruções, de forma lúdica e interativa.
 
 ## Resultados
-- Resolução do Maze (
+- Resolução do Maze (TPC1 Maze.png)
+- Resolução do Turtle (TPC1 Turle (1,2 e comboio).png)
+  
