@@ -16,6 +16,6 @@ No exercício do Turtle explorei a repetição e os padrões geométricos, aplic
 Com estes exercícios consegui consolidar melhor os conceitos de programação, como ciclos, condições e abstração de instruções, e percebi como estas ideias podem ser aplicadas de forma prática e até divertida.
 
 ## Resultados
-- Resolução do Maze (TPC1 Maze.png)
-- Resolução do Turtle (TPC1 Turle (1,2 e comboio).png)
+- Resolução do Maze https://blockly.games/maze?lang=en&level=10&&skin=0#mq6akm
+- Resolução do Turtle https://blockly.games/turtle?lang=en&level=10#r64br2
   
