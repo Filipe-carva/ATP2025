@@ -4,7 +4,6 @@
 - **Nome:** Filipe Carvalho  
 - **ID:** A111961  
 - **Foto:**  
-  ![Foto do autor](foto.jpg)
 
 ## Resumo
 Neste trabalho (TPC2) fiz em Python o jogo dos fósforos.  
@@ -16,5 +15,5 @@ Ao programar este jogo, aprendi a usar melhor os ciclos e condições, a organiz
 No final, percebi como é importante pensar na lógica e nas regras antes de programar, e como pequenas decisões no código podem mudar totalmente o resultado do jogo.
 
 ## Resultados
-- [Resolução do Jogo dos Fósforos](ficheiros/Jogo_fósforos.py)
+- Ficheiro Jogo fósforos.py dentro da pasta TPC2
 
