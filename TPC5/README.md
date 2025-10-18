@@ -1,4 +1,4 @@
-# TPC5 – Aplicação em Python para Gestão de Alunos
+# TPC5 – Aplicação para a Gestão de Alunos
 
 ## Autor
 - **Nome:** Filipe Carvalho  
