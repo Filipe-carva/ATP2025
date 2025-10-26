@@ -146,7 +146,8 @@ while condi:
         elif opcao == "9":
             grafTabMeteo(tabMeteo3)
         elif opcao == "10":
-            print("Saindo...")
+            print("A sair...")
             condi=False
         else:
             print("Opção inválida!")
+
