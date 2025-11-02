@@ -1,4 +1,4 @@
-# TPC7 – Aplicação em Python para Gestão de Posts
+# TPC7 – Gestão de Posts
 
 ## Autor
 - **Nome:** Filipe Carvalho  
