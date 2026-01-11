@@ -1,4 +1,4 @@
-# Hospital Manager – Simulador Estocástico de Fluxo Clínico
+# Sistema de Gestão Hospitalar – Simulador Estocástico de Fluxo Clínico
 
 **Contexto:** Projeto de Simulação Computacional & Engenharia de Software
 
