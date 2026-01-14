@@ -65,8 +65,7 @@ def criar_janela_principal(nome_user):
             [sg.Combo(lista_graficos, key='-COMBO_GRAF-', size=(23, 1), readonly=True, default_value=lista_graficos[0])],
             [sg.Button("Ver Gráfico", key='-SHOW_GRAF-', size=BTN_SIZE_M, disabled=True, button_color=('#ffffff', '#2980b9'))]
         ], pad=((0,0),(0,20)), expand_x=True, background_color='#34495e', title_color='white')],
-        
-        # --- ALTERAÇÃO AQUI: Usando sg.Push() para centrar individualmente ---
+
         [sg.Frame(" Relatórios Detalhados ", [
             [sg.Push(), sg.Button(" Log Completo", key='-LOG-', size=(23,1), disabled=True, pad=(0, 5)), sg.Push()],
             [sg.Push(), sg.Button(" Procurar Doente", key='-SEARCH-', size=(23,1), disabled=True, pad=(0, 5)), sg.Push()],
@@ -150,4 +149,5 @@ def popup_procurar_doente():
     nome = None
     if event == "Pesquisar":
         nome = values['-NOME_SEARCH-']
+
     return nome
